@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task 5 – React Custom Hooks
 
 A React application demonstrating a reusable `useFetch` custom hook.
@@ -62,3 +63,4 @@ Task-5-React-Custom-Hooks/
 - An internet connection is required to retrieve products from the public API.
 - This is a frontend learning assignment; it does not require a backend.
 - If the API is temporarily unavailable, the page shows an error state and a retry button.
+=======
